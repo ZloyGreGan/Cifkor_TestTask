@@ -6,7 +6,7 @@
 ---
 
 ## 🛠 Технологии
-- Unity 2D (C#, UGUI)
+- Unity 2D (C#, UGUI) (ver 2022.3.53f1)
 - DI: Zenject
 - Асинхронность: UnityWebRequest
 - Анимации: DOTween
