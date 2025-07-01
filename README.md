@@ -17,6 +17,6 @@
 
 ## 📸 Скриншоты / Видео
 
-![gif](tap_settings_mailbox.gif)
-![gif2](quests.gif)
-![gif3](biz.gif)
+<img src="screenshots/0.jpg" alt="rts_learn" width ="40%" />
+<img src="screenshots/1.jpg" alt="rts_learn" width ="40%" />
+<img src="screenshots/2.jpg" alt="rts_learn" width ="40%" />
