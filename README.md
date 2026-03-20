@@ -1,7 +1,7 @@
 # 🔥 Cifkor_TestTask
 
 ## 📌 Краткое описание
-**Cifkor_TestTask** — Проект смыслом которого является показать, умение работать с архитектурным паттерном MVC а так-же технологиями Unity такими как, DOTWeen, UnityWebRequest, Zenject.
+**Cifkor_TestTask** — Проект смыслом которого является показать, умение работать с архитектурным паттерном MVC а так-же технологиями Unity, такими как: DOTWeen, UnityWebRequest, Zenject.
 
 ---
 
